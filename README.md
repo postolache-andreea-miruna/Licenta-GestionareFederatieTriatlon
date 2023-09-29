@@ -1,7 +1,8 @@
 # Licenta-GestionareFederatieTriatlon
 
 Aplicația a fost realizată pentru proiectul de licență. 
-
+[Frontend](https://github.com/postolache-andreea-miruna/Licenta-GestionareFederatieTriatlonFront)
+[Backend + documentație](https://github.com/postolache-andreea-miruna/Licenta-GestionareFederatieTriatlon)
 „TRI România” este o aplicație web prin intermediul căreia se gestionează activitatea
 Federației Române de Triatlon, monitorizând, de asemenea, performanțele sportivilor. 
 Utilizatorii autentificați au acces la toate competițiile de triatlon organizate, la rezultatele 
